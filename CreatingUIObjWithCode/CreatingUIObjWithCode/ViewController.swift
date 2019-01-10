@@ -1,4 +1,4 @@
-// USE : Creating UI elments
+// USE : Creating UI elments with code
 //
 //  ViewController.swift
 //  CreatingUIObjWithCode
@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         label.text = "Hello from code!!"
         // Add to super view
         view.addSubview(label)
+        
+        
+        
     }
 
 
